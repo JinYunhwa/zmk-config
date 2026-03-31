@@ -47,6 +47,11 @@
             bindings = <&soft_off>;
             key-positions = <14 28 40>;
         };
+
+        tes {
+            bindings = <&kp SQT>;
+            key-positions = <48 49>;
+        };
     };
 
     macros {
